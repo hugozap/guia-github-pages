@@ -98,7 +98,7 @@ Ahora activamos la opción "Pages"
 
 Si funcionó entonces puedes ver tu página en:
 
-[github.io/hugozap/sitio1](https://github.io/hugozap/sitio1)
+[hugozap.github.io/sitio1](https://hugozap.github.io/sitio1)
 
 (Tienes que cambiar hugozap por tu usuario de GitHub)
 
