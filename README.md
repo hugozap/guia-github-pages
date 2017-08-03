@@ -26,6 +26,8 @@ GitHub Desktop.
 
 Desde GitHub desktop crear proyecto.
 
+![Nuevo](nuevo_proyecto.png)
+
 Cuando se crea el proyecto vemos esta pantalla:
 
 ![Proyecto nuevo](proyecto_nuevo.png)
@@ -88,7 +90,7 @@ Para poder ver la página tenemos que cambiar la configuración.
 
 Ahora activamos la opción "Pages"
 
-![pages](activar pages.png)
+![pages](activar_pages.png)
 
 ### Ver en la Web
 
