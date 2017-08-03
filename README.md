@@ -106,7 +106,8 @@ En GitHub Desktop
 
 1. Guardar el "commit" con la descripción (Click en "Commit to Master)
 
-2. Publicar tus cambios
+2. Publicar tus cambios.
+
 (Click en botón "Push to origin")
 
 ### Tarea
