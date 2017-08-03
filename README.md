@@ -98,6 +98,16 @@ Si funcionó entonces puedes ver tu página en:
 
 (Tienes que cambiar hugozap por tu usuario de GitHub)
 
+### Hacer cambios
+
+Cuando hagas cambios locales (en tu computador) debes:
+
+En GitHub Desktop
+
+1. Guardar el "commit" con la descripción (Click en "Commit to Master)
+
+2. Publicar tus cambios
+(Click en botón "Push to origin")
 
 ### Tarea
 
