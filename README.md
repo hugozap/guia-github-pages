@@ -63,7 +63,10 @@ Ahora vamos a subir el proyecto.
 
 2. Publicar los cambios
 
+
 ![publicar](publicar.png)
+
+(Importante: *NO* seleccionar la opción "Keep this code private")
 
 Vamos a revisar si la publicación salió bien.
 
