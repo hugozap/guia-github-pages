@@ -2,9 +2,11 @@
 
 ## Objetivo
 
-Usar el servicio de páginas de GitHub
+- Usar el servicio de páginas de GitHub para publicar proyectos Web.
 
-Pasos:
+- Aprender a usar GitHub Desktop
+
+### Pasos:
 
 1. Configurrar GitHub Desktop
 2. Crear nuevo proyecto
